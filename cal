@@ -29,7 +29,7 @@ int main( void ){
 		printf( "계산할 수 없음" );
 		break;
 	}
-
+	수정
 	return 0;
 	
 }
